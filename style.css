@@ -61,3 +61,18 @@ header:after {
   z-index: 10;
   color: gold;
 }
+
+.header-content h6 {
+  color: #fff;
+  font-size: 0.5rem;
+}
+
+.header-content i {
+  color: red;
+}
+
+.header-content a {
+  text-decoration: none;
+  color: #fff;
+  border-bottom: 1px dotted;
+}
